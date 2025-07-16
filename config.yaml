@@ -1,0 +1,15 @@
+# This file is used to configure the application settings.
+# the minimum length of a slug, if not specified, defaults to 2 characters, if all available slugs are used up, another character is added
+defaultgeneratedsluglength: 2
+#the domain name for the application, used for generating URLs, defaults to localhost
+domain: localhost
+# whether to use https in the url that is being copied to the clipboard, defaults to true
+uses-https: false
+# self reference in target urls can create infinite redirect loops, not recommended; default: false
+allow-self-reference: false
+# whether to use the blacklist.txt of disallowed URLs, defaults to true
+use-url-blacklist: true
+# the characters that are allowed in slugs, defaults to lowercase letters and numbers, without uppercase letters and 0, defaults to "abcdefghijklmnopqrstuvwxyz123456789"
+slug-allowed-characters: "abcdefghijklmnopqrstuvwxyz123456789"
+# use the X-Forwarded-For header to get the real IP address of the client, defaults to true, should be set to false if the application is not behind a reverse proxy
+use-x-forwarded-for: true
