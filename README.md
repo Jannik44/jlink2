@@ -1,6 +1,8 @@
 # jlink2 🚀
 jlink2 is a super-lightweight URL shortener written in Go. It creates short links and lets you customize the preview title and description in a snap. ✨
+
 <img width="345" height="370" alt="grafik" src="https://github.com/user-attachments/assets/72b1e2d1-16fd-4ff0-ae61-6edfc6e88b02" />
+
 Overview 🌟
 ## Features 🎉
 - Single Go binary, zero external dependencies 💪
