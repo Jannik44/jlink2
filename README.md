@@ -17,8 +17,8 @@ Overview 🌟
 
 ```
 docker run \
--d \ # detached mode, runs in background
--p80:3000 \ # public port 80, remove if the container should only be accessible from your proxy/ docker network
+-d \            # detached mode, runs in background
+-p80:3000 \     # public port 80, remove if the container should only be accessible from your proxy/ docker network
 -v /path/to/your/data/jlink2:/app/data \ # persistent storage for your data, can also be a volume
 --name jlink2 \ # the name of the docker container
 jannik44/jlink2 # the image to use
