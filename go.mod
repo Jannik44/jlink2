@@ -1,6 +1,6 @@
 module j44/jlink2
 
-go 1.24.5
+go 1.26
 
 require (
 	github.com/glebarez/go-sqlite v1.22.0
