@@ -20,6 +20,7 @@ Instead of showing this:
 │ https://example.com/very/long/url   │
 │ No preview available                │
 └─────────────────────────────────────┘
+<img width="1008" height="389" alt="Screenshot_20260226-114416~2" src="https://github.com/user-attachments/assets/1945c2ea-a06b-4047-9ed7-939ea43fe63d" />
 
 They see this:
 ┌─────────────────────────────────────┐
@@ -27,6 +28,7 @@ They see this:
 │ Limited time offer - 50% off today  │
 │ http://myurl.eu/mylink              │
 └─────────────────────────────────────┘
+<img width="802" height="364" alt="Screenshot_20260226-114757~2" src="https://github.com/user-attachments/assets/10a73a70-5568-486b-9945-469def99bf67" />
 ```
 ---
 
