@@ -22,7 +22,9 @@ Instead of showing this:
 └─────────────────────────────────────┘
 
 ```
+
 <img width="252" height="97" alt="Screenshot_20260226-114416~2" src="https://github.com/user-attachments/assets/1945c2ea-a06b-4047-9ed7-939ea43fe63d" />
+
 ```
 They see this:
 
