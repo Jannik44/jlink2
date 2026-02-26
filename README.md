@@ -77,6 +77,8 @@ docker run \
 ```
 note: you can also use -v /path/to/your/data/jlink2:/app/data if you want to access the data easily
 
+2nd note: Instead of self-hosting you can also use the hosted instance https://s.j44.eu
+
 ## 📖 API-Usage
 
 #### Note: In most cases you just want to use the webui (no coding skill needed, for end users)
