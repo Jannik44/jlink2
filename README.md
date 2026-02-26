@@ -31,8 +31,8 @@ They see this:
 │ Limited time offer - 50% off today  │
 │ http://myurl.eu/mylink              │
 └─────────────────────────────────────┘
-
 ```
+
 <img width="201" height="91" alt="Screenshot_20260226-114757~2" src="https://github.com/user-attachments/assets/10a73a70-5568-486b-9945-469def99bf67" />
 
 ---
