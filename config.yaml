@@ -7,9 +7,9 @@ domain: localhost
 uses-https: false
 # self reference in target urls can create infinite redirect loops, not recommended; default: false
 allow-self-reference: false
-# whether to use the blacklist.txt of disallowed URLs, defaults to true
-use-url-blacklist: true
 # the characters that are allowed in slugs, defaults to lowercase letters and numbers, without uppercase letters and 0, defaults to "abcdefghijklmnopqrstuvwxyz123456789"
 slug-allowed-characters: "abcdefghijklmnopqrstuvwxyz123456789"
-# use the X-Forwarded-For header to get the real IP address of the client, defaults to true, should be set to false if the application is not behind a reverse proxy
-use-x-forwarded-for: true
+# maximum number of links that can be created per IP per day, defaults to 50
+links-per-day: 50
+# maximum number of requests allowed per minute per IP for rate limiting, defaults to 200
+requests-per-minute: 200

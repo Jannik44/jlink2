@@ -1,0 +1,3 @@
+# Blacklist of domains that cannot be used as redirect targets
+# One domain per line, case-insensitive, uncomment the example entry below to block example.com
+#example.com
